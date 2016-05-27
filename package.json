@@ -35,7 +35,7 @@
     "postcss-opacity": "^3.0.0",
     "postcss-pseudoelements": "^3.0.0",
     "postcss-url": "^5.0.0",
-    "postcss-vmin": "^2.0.0",
+    "postcss-vmin": "^2.0.0"
   },
   "devDependencies": {
     "browserify": "~9.0.0",
